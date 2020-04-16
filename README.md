@@ -20,3 +20,7 @@ https://covid19.mathdro.id/api
 
 ## Running the project locally
 ```npm i && npm start```
+
+## UI
+
+![dasboard](dashboard.png)
