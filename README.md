@@ -23,4 +23,4 @@ https://covid19.mathdro.id/api
 
 ## UI
 
-![dasboard](dashboard.png)
+![dasboard](https://github.com/MaximMigutin/covid_tracker/blob/master/dasboard.png?raw=true)
